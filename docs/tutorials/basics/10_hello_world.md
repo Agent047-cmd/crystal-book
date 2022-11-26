@@ -1,11 +1,11 @@
 # Hello World
 
-The first thing you need to learn in any programming language is the famous [`Hello World!` program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
+The first thing you need to learn in any programming language is the famous [`Hello, World!` program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
 
 In Crystal this is pretty simple, maybe a little bit boring:
 
 ```crystal-play
-puts "Hello World!"
+puts "Hello, World!"
 ```
 
 > TIP:
